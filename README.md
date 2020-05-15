@@ -1,1 +1,0 @@
-# teaminquisitives.github.io
