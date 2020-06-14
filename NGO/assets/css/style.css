@@ -554,7 +554,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#22e622 50%, rgba(205, 164, 94, 0.4) 52%);
+  background: radial-gradient(#22e622 50%, rgba(107, 205, 94, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -593,7 +593,7 @@ h1, h2, h3, h4, h5, h6 {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(205, 164, 94, 0.7);
+  border: 5px solid rgba(126, 205, 94, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -909,7 +909,7 @@ section {
 }
 
 .why-us .box:hover {
-  background: #22e622;
+  background: #000000;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
